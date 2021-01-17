@@ -1,6 +1,6 @@
 # Project-with-Prof-Cheong
 
-The project is still in progress. I will disclose all of the python code once the project is done.
+The project is still in progress. I will disclose all of the python code once the project is published.
 
 This project aims to explore the hot topics, and detect topic switches. One way to do this, is to analyse all the words in the conference paper by relying on Natural Language Processing to identify keywords cluster.
 
